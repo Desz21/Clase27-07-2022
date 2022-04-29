@@ -1,0 +1,8 @@
+#prueba tr td{
+    border-left: 1px black solid;
+    border-right: 1px black solid; 
+}
+#prueba th{
+    border-left: 1px black solid;
+    border-right: 1px black solid; 
+}
